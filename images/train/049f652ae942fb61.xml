@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>049f652ae942fb61.jpg</filename>
+	<path>D:\roscore_projects\final_tp_robotics\robotics_train_sign_data\images\049f652ae942fb61.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>641</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>439</ymin>
+			<xmax>139</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>
